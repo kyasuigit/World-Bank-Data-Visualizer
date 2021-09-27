@@ -1,0 +1,85 @@
+
+Afghanistan, 2000, 2020, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Albania, 2000, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Andorra, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Angola, 2003, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Antarctica, 2002, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Argentina, 2004, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Armenia, 2003, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Australia, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Austria, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Azerbaijan, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Bahamas, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Bangladesh, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Barbados, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Belarus, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Belgium, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Belize, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Bermuda, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Bolivia, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Bosnia, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Botswana, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Brazil, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Bulgaria, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Cambodia, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Cameroon, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Canada, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Cayman Isds., 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Chad, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Chile, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+China, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Colombia, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Congo, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Costa Rica, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Croatia, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Cuba, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Cyprus, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Czechoslovakia, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Dem. People's Rep. of Korea, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Dem. Rep. of the Congo, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Denmark, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Djibouti, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Dominican Rep., 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Ecuador, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Egypt, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+El Salvador, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Estonia, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Ethiopia, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Fiji, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Finland, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Germany, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Russia, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+France, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+United Kingdom, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Sweden, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+USA, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Mexico, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Japan, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+India, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Iran, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Iraq, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Kazakhstan, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8 
+Algeria, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Vietnam, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Philippines, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Turkey, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Thailand, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Romania, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Netherlands, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Switzerland, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Ireland, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Hungary, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Greece, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Serbia, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Portugal, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Morocco, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Pakistan, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Spain, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Peru, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Singapore, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Norway, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Luxembourg, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Malaysia, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Italy, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Madagascar, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
+Israel, 2005, 2020, ana1, ana2, ana3, ana4, ana5, ana6, ana7, ana8
